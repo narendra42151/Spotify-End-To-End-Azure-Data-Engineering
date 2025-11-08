@@ -1,0 +1,9 @@
+{
+	"name": "datafactoryspotifynarendra",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a39d1a37-467b-4043-8774-8cc8e94bece2",
+		"tenantId": "30f9eebb-d9bf-44be-8e88-22bd3dcda0a6"
+	}
+}
